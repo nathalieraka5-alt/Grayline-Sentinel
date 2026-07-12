@@ -8,3 +8,11 @@ Create reusable UI components
 Add placeholder pages for core modules
 Define database schemas and model
 Improve responsive layout and sidebar navigation
+Create prediction engine service
+implement Demo company dataset
+Build business assesment flow
+Add company upload services
+Generate risk scoring dashboard
+Implement prediction explainability panel
+Build digital twin simulation module
+Implement ThreatGPT chat interface
